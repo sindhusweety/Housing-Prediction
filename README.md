@@ -1,8 +1,4 @@
-# Real-estate-case-study
 
-Problem Statement:
-
-Consider that a real estate company has the data of real-estate prices in Delhi. 
 The company wants to optimise the selling price of the properties, based on important factors such as area, bedrooms, parking, etc.
 Essentially, the company wants:
 
